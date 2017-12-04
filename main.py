@@ -67,7 +67,7 @@ def Setup():
     # SetAsOut(7)
     SetAsOut(11)
  
-    SetAsOut(12)
+    #SetAsOut(12)
     SetAsOut(16)
     SetAsOut(18)
     SetAsOut(22)
@@ -75,7 +75,7 @@ def Setup():
     # Enable(7)
     Enable(11)
  
-    Enable(12)
+    #Enable(12)
     Enable(16)
  
  
