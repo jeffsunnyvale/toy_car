@@ -64,16 +64,16 @@ def Setup():
     gpio.setmode(gpio.BOARD)
     SetAsOut(13)
     SetAsOut(15)
-    SetAsOut(7)
-    SetAsOut(11)
+    # SetAsOut(7)
+    # SetAsOut(11)
  
     SetAsOut(12)
     SetAsOut(16)
     SetAsOut(18)
     SetAsOut(22)
  
-    Enable(7)
-    Enable(11)
+    # Enable(7)
+    # Enable(11)
  
     Enable(12)
     Enable(16)
