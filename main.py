@@ -2,7 +2,7 @@ import RPi.GPIO as gpio
 import time
 import sys
  
- 
+# get one key from terminal 
 def getch():
     import termios
     import sys, tty
